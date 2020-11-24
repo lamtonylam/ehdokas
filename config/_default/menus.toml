@@ -4,27 +4,17 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "Etusivu"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Linkedin"
+  url = "https://linkedin.com/in/lamtonylam"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
-
-[[main]]
-  name = "Contact"
+  name = "Ota yhteyttä"
   url = "#contact"
   weight = 60
 
