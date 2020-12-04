@@ -23,7 +23,7 @@ design:
 ---
 <center>
 
-## **Sano ei annospussiketsuppille.**
+## **Sano ei annospussiketsupille.**
 
 {{< figure library="true" src="kuva1.png" >}}
 
