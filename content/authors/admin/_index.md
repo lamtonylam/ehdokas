@@ -71,4 +71,4 @@ user_groups:
 ---
 
 Terve! Olen ehdolla 2020 opkh-vaaleissa.
-Olen ykkönen ja 20C luokalta. 
+Olen ykkönen ja 20B luokalta. 
