@@ -23,7 +23,7 @@ design:
 ---
 <center>
 
-## **Sano ei annospussiketsupille.**
+## **Sano ei annospussiketsupille! (koronan jälkeen)**
 
 {{< figure library="true" src="kuva1.png" >}}
 
