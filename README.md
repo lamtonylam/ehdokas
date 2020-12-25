@@ -26,7 +26,12 @@ To help us develop this template and software sustainably under the MIT license,
 * **[Wowchemy Admin](https://github.com/wowchemy/wowchemy-admin/):** An admin tool to import publications from BibTeX
 
 [![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flamtonylam%2Fehdokas.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flamtonylam%2Fehdokas?ref=badge_shield)
 
 <!--
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
 -->
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flamtonylam%2Fehdokas.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flamtonylam%2Fehdokas?ref=badge_large)
